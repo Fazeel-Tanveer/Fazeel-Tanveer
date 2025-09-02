@@ -9,7 +9,7 @@ I thrive on creating applications that solve real-world problems, whether it's b
 
 <h3 align="left">Why Hire Me?</h3>
 <p align="left">
-  As a freelancer, I specialize in building **custom full stack web applications** tailored to your specific needs. Whether you need a **scalable backend**, a **dynamic frontend**, or **database-driven solutions** using MongoDB and PostgreSQL, I can help bring your ideas to life. I focus on creating **efficient, maintainable, and user-friendly applications** that drive real results for businesses and startups alike.
+  As a freelancer, I specialize in building custom full stack web applications tailored to your specific needs. Whether you need a scalable backend, a dynamic frontend, or database-driven solutions using MongoDB and PostgreSQL, I can help bring your ideas to life. I focus on creating efficient, maintainable, and user-friendly applications that drive real results for businesses and startups alike.
 </p>
 
 
