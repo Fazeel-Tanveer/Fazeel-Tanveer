@@ -2,15 +2,16 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-  I'm a passionate software engineer specializing in building AI-powered applications. My focus is on using the latest technologies in <strong>Generative AI</strong>, <strong>Natural Language Processing (NLP)</strong>, and <strong>Automation</strong> to help businesses make smarter, data-driven decisions.
-  <br/>
-  I thrive on creating solutions that streamline complex processes and make them more accessible, whether it's AI models for business intelligence or automation tools to optimize workflows.
+  I'm a passionate Full Stack Developer specializing in building robust, scalable web applications. My expertise spans Node.js, React, Next.js, JavaScript, TypeScript, MongoDB, and PostgreSQL, allowing me to deliver end-to-end solutions that are both performant and maintainable.
+<br/>
+I thrive on creating applications that solve real-world problems, whether it's building dynamic frontends, designing efficient backends, or integrating databases and APIs to streamline workflows and enhance user experiences. My goal is to turn complex ideas into seamless, user-friendly digital products.
 </p>
 
 <h3 align="left">Why Hire Me?</h3>
 <p align="left">
-  As a freelancer, I specialize in creating custom AI solutions tailored to your specific needs. Whether you're a business looking to integrate generative AI into your processes or a startup that needs to leverage NLP to automate repetitive tasks, I can help!
+  As a freelancer, I specialize in building **custom full stack web applications** tailored to your specific needs. Whether you need a **scalable backend**, a **dynamic frontend**, or **database-driven solutions** using MongoDB and PostgreSQL, I can help bring your ideas to life. I focus on creating **efficient, maintainable, and user-friendly applications** that drive real results for businesses and startups alike.
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
